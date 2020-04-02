@@ -1,4 +1,4 @@
-# Whole_genome_analysis
+# Whole_genome_sequencing_analysis
 Whole genome sequencing (WGS) was combined with bioinformatics tools to investigate the epidemiology of Vibrio cholerae in the Philippines and on other cholera affected countries.
 
 This work was presented in a poster session as oral examination for DTU's course 23259 Whole genome analysis in diagnostic microbiology.
