@@ -3,4 +3,4 @@ Whole genome sequencing (WGS) was combined with bioinformatics tools to investig
 
 This work was presented in a poster session as oral examination for DTU's course 23259 Whole genome analysis in diagnostic microbiology.
 
-![image](https://github.com/kalilamali/Whole_genome_sequencing/blob/master/WGS%20poster-1.png)
+![image](https://github.com/kalilamali/Whole_genome_sequencing/blob/master/WGS_poster.png)
